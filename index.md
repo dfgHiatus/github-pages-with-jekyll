@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+dfgHiatus: "Bottom Text"
 ---
 
-I'm glad you are here. I plan to talk about ...
+It's all coming together...
